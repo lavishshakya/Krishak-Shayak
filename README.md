@@ -1,6 +1,6 @@
 # Krishak Shayak - Agricultural Marketplace
 
-![Krishak Shayak Logo](https://via.placeholder.com/800x200/4ade80/ffffff?text=Krishak+Shayak)
+<img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/bff29144-2dc4-4120-91cb-401cb5a99531" />
 
 ## 🧑‍🌾 About
 
